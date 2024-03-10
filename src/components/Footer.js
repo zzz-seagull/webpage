@@ -8,7 +8,7 @@ function Footer() {
           <div className="col-md-4">
             <h4>Location</h4>
             <p>30 North Gould Street</p>
-            <p>Sheridan, Wyoming 82801,</p>
+            <p>Sheridan, Wyoming 82801</p>
           </div>
 
           {/* Hours Section */}
